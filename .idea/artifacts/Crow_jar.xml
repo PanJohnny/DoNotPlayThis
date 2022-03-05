@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="Crow:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Crow_jar</output-path>
+    <root id="archive" name="Crow.jar">
+      <element id="module-output" name="Crow" />
+    </root>
+  </artifact>
+</component>
